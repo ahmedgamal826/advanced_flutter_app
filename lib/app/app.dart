@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class MyApp extends StatefulWidget {
-  int appState = 0;
+  int appAppState = 0;
   MyApp._internal(); //private named constructor
 
   static final MyApp _instance =
